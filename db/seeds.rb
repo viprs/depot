@@ -18,7 +18,7 @@ Product.create!(title: 'CoffeeScript',
   shows you how to hold onto all the power and flexibility of JavaScript
   while writing clearer, cleaner, and safer code.
       </p>},
-  image_url:   'cs.jpg',    
+  image_url: 'rtp.jpg',    
   price: 36.00)
 
 # . . .
